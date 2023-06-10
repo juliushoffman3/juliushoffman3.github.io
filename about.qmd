@@ -1,5 +1,12 @@
 ---
 title: "About"
+about: 
+  id: hero-heading
+  template: jolla
 ---
 
-About this site
+:::{#hero-heading}
+
+Julius Hoffman is a student at California Polytechnic State University of San Luis Obispo, studying statistics and data science.
+
+:::

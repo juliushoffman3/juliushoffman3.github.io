@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "QuartoWebsite365"
+  title: "Julius Hoffman"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: JuliusHoffman_Resume.pdf
+        text: Resume
 
 format:
   html:

@@ -12,8 +12,6 @@ about:
 
 :::{#hero-heading}
 
-Julius Hoffman is a student at California Polytechnic State University of San Luis Obispo, studying statistics and data science. 
-
 ## Education
 
 Cal Poly, San Luis Obispo | San Luis Obispo, CA
